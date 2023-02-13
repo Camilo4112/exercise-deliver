@@ -60,3 +60,37 @@
 8. Horneamos nuevamente con ingredientes agregados a 200º por 20min
 9. Sacamos la pizza del horno y cortamos en rebanadas
 10. Servimos la pizza
+==========================================
+receta básica para hacer una pizza casera:
+
+Ingredientes:
+
+500 gramos de harina para pizza
+10 gramos de sal
+7 gramos de levadura fresca
+3 cucharadas de aceite de oliva
+250 ml de agua tibia
+Para la salsa de tomate:
+
+1 lata de tomates pelados
+1 cucharada de aceite de oliva
+1/2 cucharadita de sal
+1/2 cucharadita de azúcar
+1/2 cucharadita de orégano seco
+1/2 cucharadita de albahaca seca
+Para la cobertura:
+
+200 gramos de mozzarella rallada
+Salami, pepperoni, champiñones, aceitunas, cebolla, pimiento, o cualquier otro ingrediente que te guste
+Instrucciones:
+
+En un tazón grande, mezcle la harina, la sal y la levadura.
+Agregue el aceite de oliva y el agua tibia y mezcle hasta obtener una masa suave y homogénea.
+Amase la masa en una superficie enharinada durante unos 10 minutos, hasta que esté suave y elástica.
+Deje que la masa repose en un tazón engrasado, cubierto con un paño húmedo, durante unos 30 minutos o hasta que haya doblado su tamaño.
+Mientras tanto, prepare la salsa de tomate mezclando todos los ingredientes en un tazón.
+Precaliente el horno a 220 grados Celsius.
+Estire la masa con un rodillo en una forma circular y colóquela en una bandeja para pizza.
+Cubra la masa con la salsa de tomate y los ingredientes de su elección.
+Cubra con queso mozzarella rallado.
+Hornee durante unos 15 a 20 minutos o hasta que el queso esté dorado y la masa esté cocida.
