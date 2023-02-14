@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-## Receta para hacer una pizza
-
-1. Harina de trigo para pizza
-2. Levadura
-3. Agua tibia
-4. Sal
-=======
 # PASOS PARA HACER UNA PIZZA
 
 1. Comprar los ingredientes y sabores deseados
@@ -18,7 +10,6 @@
 8. Sacar del horno
 9. Partir en porciones iguales
 10. Servir
->>>>>>> 2cc28765929d682db73820dff67e601db294ebc2
 
 =======
 ## <h1> Receta para hacer una pizza </h1>
